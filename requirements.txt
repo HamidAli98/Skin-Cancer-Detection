@@ -1,6 +1,7 @@
 streamlit
-tensorflow
 numpy
-pandas
 Pillow
-matplotlib
+gdown
+joblib
+tensorflow
+scikit-learn
